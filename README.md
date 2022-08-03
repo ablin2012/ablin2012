@@ -11,25 +11,35 @@
 
 ### **Connect with me!**
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angellist.svg" />][angellist]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 
 <br>
 
 ### **Languages and Tools**
+<img align="left" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br>
 
 ### **My Stats**
-[![Adam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ablin2012)](https://github.com/ablin2012/github-readme-stats)
 
-[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ablin2012&show_icons=true&count_private=true)](https://github.com/ablin2012/github-readme-stats)
+[![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ablin2012&show_icons=true&count_private=true)](https://github.com/ablin2012/github-readme-stats)
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[![Adam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ablin2012)](https://github.com/ablin2012/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/adam-lin-2020/
 [angellist]: https://angel.co/u/adam-lin-10
 [instagram]: https://www.instagram.com/notadamlin/
+[facebook]: https://www.facebook.com/notadamlin
