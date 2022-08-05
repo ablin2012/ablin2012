@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with other full stack engineers
 - 💬 Ask me about Welp.com
-- 📫 How to reach me: [Email](adamlin.2009@gmail.com) or [LinkedIn](https://www.linkedin.com/in/adam-lin-2020/)
+- 📫 How to reach me: [Email](mailto:adamlin.2009@gmail.com) or [LinkedIn](https://www.linkedin.com/in/adam-lin-2020/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm really good at perfectly microwaving my food
 
